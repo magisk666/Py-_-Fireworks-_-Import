@@ -1,9 +1,9 @@
+#coding:utf8
 import pygame
 import random
 import os
 import math
 import time
-
 # 初始化信息
 WIDTH = 1152
 HEIGHT = 720
